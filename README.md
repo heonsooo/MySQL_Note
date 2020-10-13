@@ -3,10 +3,10 @@ MySQL 기능 정리
 
 ## Type 
 '''
-문자열 : Varchar
+   문자열 : Varchar
 '''
 '''
-정수형 : INT
+   정수형 : INT
 '''
 
 
@@ -29,7 +29,7 @@ Use _DataBase_
 
 ## table
 
-DB -> Tables에 행렬 만들기. (id, title, description, created, author, profile, primary 로 구성) 
+DB -> Tables에 행렬 만들기. (id, title, description, created, author, profile, primary 로 구성)
 '''
 create table _table_(
    id int NOT Null Auto_increment , 
