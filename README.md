@@ -2,8 +2,12 @@
 MySQL 기능 정리
 
 ## Type 
-'''문자열 : Varchar'''
-'''정수형 : INT'''
+'''
+문자열 : Varchar
+'''
+'''
+정수형 : INT
+'''
 
 
 ## DataBase
